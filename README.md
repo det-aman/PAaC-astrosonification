@@ -5,3 +5,7 @@ In ‘Initial image loading and pixel extraction script’ we loaded a galaxy im
 10-12-24 
 updated the repository with code for generating sound from the previously used image. 
 the audio file is also added
+
+
+29-12-2024
+hires-brightness-audio.wav : the sonified version of hires.jpg. Skip to 00:50 seconds and then continue playing the audio file to hear the pattern
